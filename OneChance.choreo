@@ -29,7 +29,7 @@
             "$id": "2",
             "ZIndex": 1,
             "Name": "Herr",
-            "Color": "#FF4169E1"
+            "Color": "#ff4169e1"
         }
     ],
     "Dancers": [
@@ -38,8 +38,8 @@
             "Role": {
                 "$ref": "2"
             },
-            "Name": "Richard Bauer / Todor Lehner",
-            "Shortcut": "RT",
+            "Name": "Sebastian Rauter",
+            "Shortcut": "SR",
             "Color": "#FFF21014"
         },
         {
@@ -47,8 +47,8 @@
             "Role": {
                 "$ref": "2"
             },
-            "Name": "Patrick Renner",
-            "Shortcut": "PR",
+            "Name": "Richard Bauer",
+            "Shortcut": "RB",
             "Color": "#FFAF6DEF"
         },
         {
@@ -56,8 +56,8 @@
             "Role": {
                 "$ref": "2"
             },
-            "Name": "Markus Pfeifer",
-            "Shortcut": "MP",
+            "Name": "Silvia Grafinger",
+            "Shortcut": "SG",
             "Color": "#FF257522"
         },
         {
@@ -65,8 +65,8 @@
             "Role": {
                 "$ref": "2"
             },
-            "Name": "Rene Kaspar / Ruben Vrticka",
-            "Shortcut": "RR",
+            "Name": "Rene Kaspar",
+            "Shortcut": "RK",
             "Color": "#FF512D0B"
         },
         {
@@ -74,8 +74,8 @@
             "Role": {
                 "$ref": "2"
             },
-            "Name": "Frido Tillmann",
-            "Shortcut": "FT",
+            "Name": "Markus Pfeifer",
+            "Shortcut": "MP",
             "Color": "#FFD61062"
         },
         {
@@ -83,8 +83,8 @@
             "Role": {
                 "$ref": "2"
             },
-            "Name": "Lennard Schandl",
-            "Shortcut": "LS",
+            "Name": "Ruben Vrticka",
+            "Shortcut": "RV",
             "Color": "#FF3667D8"
         },
         {
@@ -101,8 +101,8 @@
             "Role": {
                 "$ref": "2"
             },
-            "Name": "Silvia Grafinger",
-            "Shortcut": "SG",
+            "Name": "Patrick Renner",
+            "Shortcut": "PR",
             "Color": "#FFEAED21"
         },
         {
@@ -110,8 +110,8 @@
             "Role": {
                 "$ref": "1"
             },
-            "Name": "Nadine Lang / Ulrike Helwich / Nina Zeitlberger",
-            "Shortcut": "NU",
+            "Name": "unbesetzt",
+            "Shortcut": "00",
             "Color": "#FFF21014"
         },
         {
@@ -119,8 +119,8 @@
             "Role": {
                 "$ref": "1"
             },
-            "Name": "Bibiane T\u00e4ubl",
-            "Shortcut": "BT",
+            "Name": "Hannah Macher",
+            "Shortcut": "HM",
             "Color": "#FFAF6DEF"
         },
         {
@@ -128,17 +128,17 @@
             "Role": {
                 "$ref": "1"
             },
-            "Name": "Katharina Weber",
-            "Shortcut": "KW",
-            "Color": "#FF227525"
+            "Name": "Ulrike Helwich",
+            "Shortcut": "UH",
+            "Color": "#FF257522"
         },
         {
             "$id": "14",
             "Role": {
                 "$ref": "1"
             },
-            "Name": "Roswitha Holy",
-            "Shortcut": "RH",
+            "Name": "Daniela Promont / Nina Zeitlberger",
+            "Shortcut": "DN",
             "Color": "#FF512D0B"
         },
         {
@@ -146,8 +146,8 @@
             "Role": {
                 "$ref": "1"
             },
-            "Name": "Angelina Wagner",
-            "Shortcut": "AW",
+            "Name": "Leonie Holmann",
+            "Shortcut": "LH",
             "Color": "#FFD61062"
         },
         {
@@ -155,8 +155,8 @@
             "Role": {
                 "$ref": "1"
             },
-            "Name": "Hannah Hausberger",
-            "Shortcut": "HH",
+            "Name": "Bibiane T\u00e4ubl",
+            "Shortcut": "BT",
             "Color": "#FF3667D8"
         },
         {
@@ -164,8 +164,8 @@
             "Role": {
                 "$ref": "1"
             },
-            "Name": "Ronja Schwelch",
-            "Shortcut": "RS",
+            "Name": "Nadine Lang",
+            "Shortcut": "NL",
             "Color": "#FF4DBF43"
         },
         {
@@ -173,8 +173,8 @@
             "Role": {
                 "$ref": "1"
             },
-            "Name": "Leonie Holmann",
-            "Shortcut": "LH",
+            "Name": "Leah Schmidl / Iris Bartsch",
+            "Shortcut": "LI",
             "Color": "#FFEAED21"
         }
     ],
@@ -295,7 +295,7 @@
                 }
             ],
             "Name": "0.1 Einmarsch",
-            "Text": "\r\n\r\n",
+            "Text": "",
             "FixedPositions": true
         },
         {
@@ -1842,7 +1842,7 @@
                 }
             ],
             "Name": "3.2 Rumba",
-            "Text": "auf \"4\" Herr re Fu\u00df Punkt\r\nDame li Fu\u00df Seite\r\n\r\n",
+            "Text": "auf \"4\" Herr li Fu\u00df Punkt\r\nDame li Fu\u00df Seite\r\n\r\n",
             "FixedPositions": true
         },
         {
@@ -2080,7 +2080,7 @@
                 }
             ],
             "Name": "3.4 Rumba",
-            "Text": "auf \"2\" Ende Telespin",
+            "Text": "auf \"2\" Ende Telespin\r\nHerren li Fu\u00df Punkt",
             "FixedPositions": true
         },
         {
@@ -2208,7 +2208,7 @@
                     "Dancer": {
                         "$ref": "3"
                     },
-                    "X": -2.0,
+                    "X": -3.0,
                     "Y": -2.0
                 },
                 {
@@ -2222,7 +2222,7 @@
                     "Dancer": {
                         "$ref": "9"
                     },
-                    "X": -4.0,
+                    "X": -6.0,
                     "Y": -2.0
                 },
                 {
@@ -2236,35 +2236,35 @@
                     "Dancer": {
                         "$ref": "5"
                     },
-                    "X": -4.0,
+                    "X": -6.0,
                     "Y": 1.0
                 },
                 {
                     "Dancer": {
                         "$ref": "8"
                     },
-                    "X": -1.0,
+                    "X": -1.5,
                     "Y": -0.5
                 },
                 {
                     "Dancer": {
                         "$ref": "7"
                     },
-                    "X": -3.0,
+                    "X": -4.5,
                     "Y": -0.5
                 },
                 {
                     "Dancer": {
                         "$ref": "10"
                     },
-                    "X": -2.0,
+                    "X": -3.0,
                     "Y": 1.0
                 },
                 {
                     "Dancer": {
                         "$ref": "11"
                     },
-                    "X": -2.0,
+                    "X": -3.0,
                     "Y": -2.0
                 },
                 {
@@ -2278,7 +2278,7 @@
                     "Dancer": {
                         "$ref": "17"
                     },
-                    "X": -4.0,
+                    "X": -6.0,
                     "Y": -2.0
                 },
                 {
@@ -2292,28 +2292,28 @@
                     "Dancer": {
                         "$ref": "13"
                     },
-                    "X": -4.0,
+                    "X": -6.0,
                     "Y": 1.0
                 },
                 {
                     "Dancer": {
                         "$ref": "16"
                     },
-                    "X": -1.0,
+                    "X": -1.5,
                     "Y": -0.5
                 },
                 {
                     "Dancer": {
                         "$ref": "15"
                     },
-                    "X": -3.0,
+                    "X": -4.5,
                     "Y": -0.5
                 },
                 {
                     "Dancer": {
                         "$ref": "18"
                     },
-                    "X": -2.0,
+                    "X": -3.0,
                     "Y": 1.0
                 }
             ],
@@ -3270,7 +3270,7 @@
                 }
             ],
             "Name": "5.4 Paso Doble",
-            "Text": "auf \"7\"\r\nHerr re Fu\u00df Punkt\r\nDame li Fu\u00df\r\n\r\n\r\n",
+            "Text": "auf \"7\"\r\nHerr li Fu\u00df Punkt\r\nDame li Fu\u00df\r\n\r\n\r\n",
             "FixedPositions": true
         },
         {
@@ -8516,5 +8516,5 @@
     "Variation": "C-Team",
     "Author": "",
     "Description": "Bilderliste erstellt von Markus Pfeifer.",
-    "LastSaveDate": "2025-10-18T07:19:04.4847213+02:00"
+    "LastSaveDate": "2026-01-24T18:53:07.7308754+01:00"
 }

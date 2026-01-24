@@ -2,3 +2,5 @@ PDF/
 Backups/
 .venv/
 *.autosave.choreo
+choreoMasterErrorLog.txt
+*.pdf
