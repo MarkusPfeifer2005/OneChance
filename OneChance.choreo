@@ -29,7 +29,7 @@
             "$id": "2",
             "ZIndex": 1,
             "Name": "Herr",
-            "Color": "#ff4169e1"
+            "Color": "#FF4169E1"
         }
     ],
     "Dancers": [
@@ -4936,7 +4936,7 @@
                 }
             ],
             "Name": "8.10 Samba",
-            "Text": "auf \"4\" Ende Run\r\nHerr li Fu\u00df Punkt",
+            "Text": "auf \"4\" Ende Run\r\nHerr re Fu\u00df Punkt",
             "FixedPositions": true
         },
         {
@@ -8516,5 +8516,5 @@
     "Variation": "C-Team",
     "Author": "",
     "Description": "Bilderliste erstellt von Markus Pfeifer.",
-    "LastSaveDate": "2026-01-24T18:53:07.7308754+01:00"
+    "LastSaveDate": "2026-01-28T23:51:40.3521833+01:00"
 }
