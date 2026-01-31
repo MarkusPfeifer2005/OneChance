@@ -6364,7 +6364,7 @@
                 }
             ],
             "Name": "13.2 CCC",
-            "Text": "auf \"2\"\r\n\r\n\r\n",
+            "Text": "auf \"2\"\r\nHerr li Fu\u00df Punkt\r\n\r\n\r\n",
             "FixedPositions": true
         },
         {
@@ -8516,5 +8516,5 @@
     "Variation": "C-Team",
     "Author": "",
     "Description": "Bilderliste erstellt von Markus Pfeifer.",
-    "LastSaveDate": "2026-01-28T23:51:40.3521833+01:00"
+    "LastSaveDate": "2026-01-31T16:36:11.9092864+01:00"
 }
