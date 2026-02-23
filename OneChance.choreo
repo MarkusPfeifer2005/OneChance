@@ -3865,7 +3865,7 @@
                 }
             ],
             "Name": "8.1 Samba",
-            "Text": "auf \"4\" Herr li Fu\u00df Punkt            \r\n            \r\n\r\n\r\n",
+            "Text": "auf \"4\" Herr re Fu\u00df Punkt",
             "FixedPositions": true
         },
         {
@@ -8635,5 +8635,5 @@
     "Variation": "C-Team",
     "Author": "",
     "Description": "Bilderliste erstellt von Markus Pfeifer.",
-    "LastSaveDate": "2026-02-11T16:18:04.5816471+01:00"
+    "LastSaveDate": "2026-02-23T02:14:28.5024038+01:00"
 }
