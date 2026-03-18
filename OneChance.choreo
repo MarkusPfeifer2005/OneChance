@@ -2209,6 +2209,125 @@
                         "$ref": "3"
                     },
                     "X": -3.0,
+                    "Y": 0.0
+                },
+                {
+                    "Dancer": {
+                        "$ref": "12"
+                    },
+                    "X": 0.0,
+                    "Y": 2.0
+                },
+                {
+                    "Dancer": {
+                        "$ref": "9"
+                    },
+                    "X": -6.0,
+                    "Y": 0.0
+                },
+                {
+                    "Dancer": {
+                        "$ref": "6"
+                    },
+                    "X": 0.0,
+                    "Y": 0.0
+                },
+                {
+                    "Dancer": {
+                        "$ref": "5"
+                    },
+                    "X": -6.0,
+                    "Y": 2.0
+                },
+                {
+                    "Dancer": {
+                        "$ref": "8"
+                    },
+                    "X": -1.5,
+                    "Y": 2.0
+                },
+                {
+                    "Dancer": {
+                        "$ref": "7"
+                    },
+                    "X": -4.5,
+                    "Y": 2.0
+                },
+                {
+                    "Dancer": {
+                        "$ref": "10"
+                    },
+                    "X": -3.0,
+                    "Y": 2.0
+                },
+                {
+                    "Dancer": {
+                        "$ref": "11"
+                    },
+                    "X": -3.0,
+                    "Y": 0.0
+                },
+                {
+                    "Dancer": {
+                        "$ref": "4"
+                    },
+                    "X": 0.0,
+                    "Y": 2.0
+                },
+                {
+                    "Dancer": {
+                        "$ref": "17"
+                    },
+                    "X": -6.0,
+                    "Y": 0.0
+                },
+                {
+                    "Dancer": {
+                        "$ref": "14"
+                    },
+                    "X": 0.0,
+                    "Y": 0.0
+                },
+                {
+                    "Dancer": {
+                        "$ref": "13"
+                    },
+                    "X": -6.0,
+                    "Y": 2.0
+                },
+                {
+                    "Dancer": {
+                        "$ref": "16"
+                    },
+                    "X": -1.5,
+                    "Y": 2.0
+                },
+                {
+                    "Dancer": {
+                        "$ref": "15"
+                    },
+                    "X": -4.5,
+                    "Y": 2.0
+                },
+                {
+                    "Dancer": {
+                        "$ref": "18"
+                    },
+                    "X": -3.0,
+                    "Y": 2.0
+                }
+            ],
+            "Name": "4.1 Samba",
+            "Text": "auf \"3\"\r\n\r\n",
+            "FixedPositions": true
+        },
+        {
+            "Positions": [
+                {
+                    "Dancer": {
+                        "$ref": "3"
+                    },
+                    "X": -3.0,
                     "Y": -2.0
                 },
                 {
@@ -2317,7 +2436,7 @@
                     "Y": 1.0
                 }
             ],
-            "Name": "4.1 Samba",
+            "Name": "4.2 Samba",
             "Text": "auf \"8\" Ende Rollen\r\n\r\n",
             "FixedPositions": true
         },
@@ -2436,7 +2555,7 @@
                     "Y": -3.0
                 }
             ],
-            "Name": "4.2 Samba",
+            "Name": "4.3 Samba",
             "Text": "auf \"2\"\r\n\r\n",
             "FixedPositions": true
         },
@@ -2555,7 +2674,7 @@
                     "Y": -1.0
                 }
             ],
-            "Name": "4.3 Samba",
+            "Name": "4.4 Samba",
             "Text": "auf \"6\"\r\nHerr re Fu\u00df Punkt\r\n\r\nKopf erst auf \"4\" vorne\r\n\r\n",
             "FixedPositions": true
         },
@@ -2674,7 +2793,7 @@
                     "Y": 0.0
                 }
             ],
-            "Name": "4.4 Samba",
+            "Name": "4.6 Samba",
             "Text": "auf \"2\"\r\nHerr re Fu\u00df Punkt\r\n\r\nHerren: Kopf diagonal\r\n",
             "FixedPositions": true
         },
@@ -2793,7 +2912,7 @@
                     "Y": -0.5
                 }
             ],
-            "Name": "4.5 Samba",
+            "Name": "4.7 Samba",
             "Text": "auf \"6\" Endbild\r\n\r\n",
             "FixedPositions": true
         },
@@ -6534,7 +6653,7 @@
                     "Dancer": {
                         "$ref": "15"
                     },
-                    "X": 1.0,
+                    "X": 0.0,
                     "Y": 6.0
                 },
                 {
@@ -6590,7 +6709,7 @@
                     "Dancer": {
                         "$ref": "7"
                     },
-                    "X": 0.0,
+                    "X": 1.0,
                     "Y": 6.0
                 },
                 {
@@ -6653,7 +6772,7 @@
                     "Dancer": {
                         "$ref": "15"
                     },
-                    "X": 1.0,
+                    "X": 0.0,
                     "Y": 7.0
                 },
                 {
@@ -6709,7 +6828,7 @@
                     "Dancer": {
                         "$ref": "7"
                     },
-                    "X": 0.0,
+                    "X": 1.0,
                     "Y": 7.0
                 },
                 {
@@ -8635,5 +8754,5 @@
     "Variation": "C-Team",
     "Author": "",
     "Description": "Bilderliste erstellt von Markus Pfeifer.",
-    "LastSaveDate": "2026-02-23T02:14:28.5024038+01:00"
+    "LastSaveDate": "2026-03-14T00:04:43.5432643+01:00"
 }
