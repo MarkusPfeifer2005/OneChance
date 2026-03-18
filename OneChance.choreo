@@ -101,8 +101,8 @@
             "Role": {
                 "$ref": "2"
             },
-            "Name": "Patrick Renner",
-            "Shortcut": "PR",
+            "Name": "Sebastian Gabler",
+            "Shortcut": "SG",
             "Color": "#FFEAED21"
         },
         {
@@ -110,8 +110,8 @@
             "Role": {
                 "$ref": "1"
             },
-            "Name": "unbesetzt",
-            "Shortcut": "00",
+            "Name": "Greta Superstar",
+            "Shortcut": "GS",
             "Color": "#FFF21014"
         },
         {
@@ -8754,5 +8754,5 @@
     "Variation": "C-Team",
     "Author": "",
     "Description": "Bilderliste erstellt von Markus Pfeifer.",
-    "LastSaveDate": "2026-03-14T00:04:43.5432643+01:00"
+    "LastSaveDate": "2026-03-18T17:00:40.4400064+01:00"
 }
