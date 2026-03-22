@@ -2793,8 +2793,8 @@
                     "Y": -0.5
                 }
             ],
-            "Name": "4.6 Samba",
-            "Text": "auf \"2\"\r\nHerr re Fu\u00df Punkt\r\n\r\nHerren: Kopf diagonal\r\n",
+            "Name": "4.5 Samba",
+            "Text": "auf \"2\"\r\nHerr re Fu\u00df Punkt\r\n\r\nHerren: Kopf vorne\r\n",
             "FixedPositions": true
         },
         {
@@ -2912,7 +2912,7 @@
                     "Y": -2.0
                 }
             ],
-            "Name": "4.7 Samba",
+            "Name": "4.6 Samba",
             "Text": "auf \"6\" Endbild\r\n\r\n",
             "FixedPositions": true
         },
@@ -5293,7 +5293,7 @@
                 }
             ],
             "Name": "9.1 Roundabout",
-            "Text": "auf \"3\" Wischer\r\n",
+            "Text": "auf \"7\" nach den ersten zwei Drehungen erreicht\r\nauf \"3\" Wischer\r\nbis \"8\" wird das Bild gehalten",
             "FixedPositions": true
         },
         {
@@ -5412,7 +5412,7 @@
                 }
             ],
             "Name": "9.2 Roundabout",
-            "Text": "auf \"5\" Ende Roundabout",
+            "Text": "auf \"6\" Ende Roundabout",
             "FixedPositions": true
         },
         {
@@ -8754,5 +8754,5 @@
     "Variation": "C-Team",
     "Author": "",
     "Description": "Bilderliste erstellt von Markus Pfeifer.",
-    "LastSaveDate": "2026-03-21T23:54:54.4570147+01:00"
+    "LastSaveDate": "2026-03-23T00:47:37.3474981+01:00"
 }
