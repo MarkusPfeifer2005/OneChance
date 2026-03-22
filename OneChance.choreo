@@ -2317,7 +2317,7 @@
                     "Y": 2.0
                 }
             ],
-            "Name": "4.1 Samba",
+            "Name": "Samba 1. Drittel Rollen Zwischenbild",
             "Text": "auf \"3\"\r\n\r\n",
             "FixedPositions": true
         },
@@ -2794,7 +2794,7 @@
                 }
             ],
             "Name": "Samba 1. Drittel delayed Zig-Zag",
-            "Text": "auf \"2\"\r\nHerr re Fu\u00df Punkt\r\n\r\nHerren: Kopf diagonal\r\n",
+            "Text": "auf \"2\"\r\nHerr re Fu\u00df Punkt\r\n\r\nHerren: Kopf vorne\r\n",
             "FixedPositions": true
         },
         {
@@ -5292,8 +5292,8 @@
                     "Y": 2.0
                 }
             ],
-            "Name": "Roundabout 2 Reihen",
-            "Text": "auf \"3\" Wischer\r\n",
+            "Name": "Roundabout Wischer",
+            "Text": "auf \"7\" nach den ersten zwei Drehungen erreicht\r\nauf \"3\" Wischer\r\nbis \"8\" wird das Bild gehalten",
             "FixedPositions": true
         },
         {
@@ -5412,7 +5412,7 @@
                 }
             ],
             "Name": "Roundabout Ende",
-            "Text": "auf \"5\" Ende Roundabout",
+            "Text": "auf \"6\" Ende Roundabout",
             "FixedPositions": true
         },
         {
@@ -8754,5 +8754,5 @@
     "Variation": "C-Team",
     "Author": "",
     "Description": "Bilderliste erstellt von Markus Pfeifer.",
-    "LastSaveDate": "2026-03-21T23:54:54.4570147+01:00"
+    "LastSaveDate": "2026-03-22T15:29:50.0081968+01:00"
 }
