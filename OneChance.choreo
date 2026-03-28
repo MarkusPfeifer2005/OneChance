@@ -294,7 +294,7 @@
                     "Y": 0.0
                 }
             ],
-            "Name": "0.1 Einmarsch",
+            "Name": "Einmarsch Beginn",
             "Text": "",
             "FixedPositions": true
         },
@@ -413,7 +413,7 @@
                     "Y": 0.0
                 }
             ],
-            "Name": "0.2 Einmarsch",
+            "Name": "Einmarsch Welle",
             "Text": "",
             "FixedPositions": true
         },
@@ -532,7 +532,7 @@
                     "Y": 3.0
                 }
             ],
-            "Name": "0.3 Einmarsch",
+            "Name": "Einmarsch Raute",
             "Text": "auf \"7\" Bild erreicht\r\nauf \"8\" hoch",
             "FixedPositions": true
         },
@@ -651,7 +651,7 @@
                     "Y": 3.0
                 }
             ],
-            "Name": "0.4 Einmarsch",
+            "Name": "Einmarsch Ende Canon",
             "Text": "auf \"&7\"",
             "FixedPositions": true
         },
@@ -770,7 +770,7 @@
                     "Y": 2.0
                 }
             ],
-            "Name": "0.5 Einmarsch",
+            "Name": "Einmarsch Hebefigur",
             "Text": "auf \"5\"\r\nHerr re Fu\u00df Punkt",
             "FixedPositions": true
         },
@@ -889,7 +889,7 @@
                     "Y": 1.5
                 }
             ],
-            "Name": "1.1 Pirou - WIND Anfang",
+            "Name": "Pirou - WIND Anfang",
             "Text": "auf \"8\"\r\nHerr re Fu\u00df Punkt",
             "FixedPositions": true
         },
@@ -1008,7 +1008,7 @@
                     "Y": 1.5
                 }
             ],
-            "Name": "1.2 Wind Ende - Jive Beginn",
+            "Name": "Wind Ende - Jive Beginn",
             "Text": "",
             "FixedPositions": true
         },
@@ -1127,7 +1127,7 @@
                     "Y": 1.5
                 }
             ],
-            "Name": "2.1 Jive",
+            "Name": "Jive 1. Drittel 1. Kick",
             "Text": "",
             "FixedPositions": true
         },
@@ -1246,7 +1246,7 @@
                     "Y": 1.5
                 }
             ],
-            "Name": "2.2 Jive",
+            "Name": "Jive 1. Drittel Kick-Ball-Change",
             "Text": "auf \"3\" Herr Kick\r\nHerr re Fu\u00df Punkt",
             "FixedPositions": true
         },
@@ -1365,7 +1365,7 @@
                     "Y": 3.0
                 }
             ],
-            "Name": "2.3 Jive",
+            "Name": "Jive 1. Drittel Raute",
             "Text": "auf \"2\" vor Jump",
             "FixedPositions": true
         },
@@ -1484,7 +1484,7 @@
                     "Y": 3.5
                 }
             ],
-            "Name": "2.4 Jive",
+            "Name": "Jive 1. Drittel Sprung",
             "Text": "auf \"6\" nach Jump\r\nHerr re Fu\u00df Punkt",
             "FixedPositions": true
         },
@@ -1603,7 +1603,7 @@
                     "Y": 6.0
                 }
             ],
-            "Name": "2.5 Jive",
+            "Name": "Jive 1. Drittel vor zweiter Achse",
             "Text": "auf \"6\" vor zweiter Achse\r\ndavor auf \"4\" hinter einander\r\n\r\nDefinitonen Dame in der Pose:\r\nauf \"1\" Arm hoch auf \"2\" Arm an den Hinterkopf auf \"3\" geht der Kopf am K\u00f6rper mit auf \"4\" Kopf nach hinten",
             "FixedPositions": true
         },
@@ -1722,7 +1722,7 @@
                     "Y": 7.0
                 }
             ],
-            "Name": "3.1 Rumba",
+            "Name": "Rumba 1. Drittel Beginn",
             "Text": "auf \"1\"\r\nHerr li Fu\u00df Punkt\r\n\r\nDame 0,75 linker Fu\u00df Seite von Herr entfernt - rechter Fu\u00df Herrentiefe\r\n\r\n",
             "FixedPositions": true
         },
@@ -1841,7 +1841,7 @@
                     "Y": 6.0
                 }
             ],
-            "Name": "3.2 Rumba",
+            "Name": "Rumba 1. Drittel Lunge",
             "Text": "auf \"4\" Herr li Fu\u00df Punkt\r\nDame li Fu\u00df Seite\r\n\r\n",
             "FixedPositions": true
         },
@@ -1960,7 +1960,7 @@
                     "Y": 5.0
                 }
             ],
-            "Name": "3.3 Rumba",
+            "Name": "Rumba 1. Drittel vor Telespin",
             "Text": "auf \"2\" vor Telespin\r\nHerr re Fu\u00df\r\n\r\n",
             "FixedPositions": true
         },
@@ -2079,7 +2079,7 @@
                     "Y": 5.0
                 }
             ],
-            "Name": "3.4 Rumba",
+            "Name": "Rumba 1. Drittel nach Telespin",
             "Text": "auf \"2\" Ende Telespin\r\nHerren li Fu\u00df Punkt",
             "FixedPositions": true
         },
@@ -2198,7 +2198,7 @@
                     "Y": 4.5
                 }
             ],
-            "Name": "3.5 Rumba",
+            "Name": "Rumba 1. Drittel Endbild",
             "Text": "auf \"4\" Endbild\r\nHerr re Fu\u00df Punkt",
             "FixedPositions": true
         },
@@ -2317,7 +2317,7 @@
                     "Y": 2.0
                 }
             ],
-            "Name": "4.1 Samba",
+            "Name": "Samba 1. Drittel Rollen Zwischenbild",
             "Text": "auf \"3\"\r\n\r\n",
             "FixedPositions": true
         },
@@ -2436,7 +2436,7 @@
                     "Y": 1.0
                 }
             ],
-            "Name": "4.2 Samba",
+            "Name": "Samba 1. Drittel nach Rollen",
             "Text": "auf \"8\" Ende Rollen\r\n\r\n",
             "FixedPositions": true
         },
@@ -2555,7 +2555,7 @@
                     "Y": -3.0
                 }
             ],
-            "Name": "4.3 Samba",
+            "Name": "Samba 1. Drittel Diamant hinten",
             "Text": "auf \"2\"\r\nPaar Mitte Punkt\r\n",
             "FixedPositions": true
         },
@@ -2674,7 +2674,7 @@
                     "Y": -1.5
                 }
             ],
-            "Name": "4.4 Samba",
+            "Name": "Samba 1. Drittel auf \"6\"",
             "Text": "auf \"6\"\r\nHerr re Fu\u00df Punkt\r\n\r\nKopf erst auf \"4\" vorne\r\n\r\n",
             "FixedPositions": true
         },
@@ -2793,7 +2793,7 @@
                     "Y": -0.5
                 }
             ],
-            "Name": "4.5 Samba",
+            "Name": "Samba 1. Drittel delayed Zig-Zag",
             "Text": "auf \"2\"\r\nHerr re Fu\u00df Punkt\r\n\r\nHerren: Kopf vorne\r\n",
             "FixedPositions": true
         },
@@ -2912,7 +2912,7 @@
                     "Y": -2.0
                 }
             ],
-            "Name": "4.6 Samba",
+            "Name": "Samba 1. Drittel Endbild",
             "Text": "auf \"6\" Endbild\r\n\r\n",
             "FixedPositions": true
         },
@@ -3031,7 +3031,7 @@
                     "Y": -1.0
                 }
             ],
-            "Name": "5.1 Paso Doble",
+            "Name": "Paso 1. Drittel auf \"3\"",
             "Text": "auf \"3\"   \r\n\r\n\r\n",
             "FixedPositions": true
         },
@@ -3150,8 +3150,8 @@
                     "Y": -1.0
                 }
             ],
-            "Name": "5.2 Paso Doble",
-            "Text": "auf \"&4\"\r\n\r\n\r\n",
+            "Name": "Paso 1. Drittel auf \"7\"",
+            "Text": "auf \"7\"\r\n\r\n\r\n",
             "FixedPositions": true
         },
         {
@@ -3269,7 +3269,7 @@
                     "Y": -0.5
                 }
             ],
-            "Name": "5.3 Paso Doble",
+            "Name": "Paso 1. Drittel Twist",
             "Text": "auf \"3\" Twist\r\n\r\n",
             "FixedPositions": true
         },
@@ -3388,7 +3388,7 @@
                     "Y": -0.5
                 }
             ],
-            "Name": "5.4 Paso Doble",
+            "Name": "Paso 1. Drittel Ende",
             "Text": "auf \"7\"\r\nHerr li Fu\u00df Punkt\r\nDame li Fu\u00df\r\n\r\n\r\n",
             "FixedPositions": true
         },
@@ -3507,7 +3507,7 @@
                     "Y": 0.0
                 }
             ],
-            "Name": "6.1 CCC",
+            "Name": "CCC 1. Drittel 1. Box",
             "Text": "auf \"1\" Herr Punkt\r\n\r\n\r\n",
             "FixedPositions": true
         },
@@ -3626,7 +3626,7 @@
                     "Y": -2.0
                 }
             ],
-            "Name": "6.2 CCC",
+            "Name": "CCC 1. Drittel Ende",
             "Text": "auf \"3\" Dame re Fu\u00df Punkt und Herr re Fu\u00df\r\n\r\n\r\n",
             "FixedPositions": true
         },
@@ -3745,8 +3745,8 @@
                     "Y": -0.5
                 }
             ],
-            "Name": "8.1 Samba",
-            "Text": "",
+            "Name": "Samba 2. Drittel Beginn",
+            "Text": "auf \"4\" Herr re Fu\u00df Punkt",
             "FixedPositions": true
         },
         {
@@ -3864,7 +3864,7 @@
                     "Y": 2.5
                 }
             ],
-            "Name": "8.2 Samba",
+            "Name": "Samba 2. Drittel auf \"6\" vorne",
             "Text": "auf \"6\" vor Doppeldrehung\r\nHerr re Fu\u00df Punkt\r\n\r\n\r\n",
             "FixedPositions": true
         },
@@ -3983,7 +3983,7 @@
                     "Y": 2.5
                 }
             ],
-            "Name": "8.3 Samba",
+            "Name": "Samba 2. Drittel Ende Doppeldrehung",
             "Text": "Ende Doppeldrehung",
             "FixedPositions": true
         },
@@ -4102,8 +4102,8 @@
                     "Y": 2.5
                 }
             ],
-            "Name": "8.4 Samba",
-            "Text": "auf \"2\"\r\n\r\n",
+            "Name": "Samba 2. Drittel auf \"5\" Lunge",
+            "Text": "auf \"5\" Lunge Herr li Fu\u00df Punkt",
             "FixedPositions": true
         },
         {
@@ -4221,7 +4221,7 @@
                     "Y": 0.0
                 }
             ],
-            "Name": "8.5 Samba",
+            "Name": "Samba 2. Drittel Ende Batucada",
             "Text": "auf \"4\" Ende Batucada\r\nHerr li Fu\u00df Punkt\r\n\r\n",
             "FixedPositions": true
         },
@@ -4340,7 +4340,7 @@
                     "Y": 5.0
                 }
             ],
-            "Name": "8.6 Samba",
+            "Name": "Samba 2. Drittel auf \"2\" vorne Linien",
             "Text": "auf \"2\" Herr li Fu\u00df Punkt\r\n\r\n\r\n",
             "FixedPositions": true
         },
@@ -4459,7 +4459,7 @@
                     "Y": 5.0
                 }
             ],
-            "Name": "8.7 Samba",
+            "Name": "Samba 2. Drittel auf \"4\" vorne Linien",
             "Text": "auf \"4\"",
             "FixedPositions": true
         },
@@ -4697,7 +4697,7 @@
                     "Y": 2.0
                 }
             ],
-            "Name": "8.9 Samba",
+            "Name": "Samba 2. Drittel Ende",
             "Text": "auf \"4\" Ende Run\r\nHerr re Fu\u00df Punkt",
             "FixedPositions": true
         },
@@ -4816,7 +4816,7 @@
                     "Y": 2.0
                 }
             ],
-            "Name": "9.1 Roundabout",
+            "Name": "Roundabout Wischer",
             "Text": "auf \"7\" nach den ersten zwei Drehungen erreicht\r\nauf \"3\" Wischer\r\nbis \"8\" wird das Bild gehalten",
             "FixedPositions": true
         },
@@ -4935,7 +4935,7 @@
                     "Y": 1.5
                 }
             ],
-            "Name": "9.2 Roundabout",
+            "Name": "Roundabout Ende",
             "Text": "auf \"6\" Ende Roundabout",
             "FixedPositions": true
         },
@@ -5054,7 +5054,7 @@
                     "Y": -0.5
                 }
             ],
-            "Name": "10.1 Paso Doble",
+            "Name": "Paso 2. Drittel Ronde",
             "Text": "auf \"1\" Ronde\r\nHerr re Fu\u00df Punkt",
             "FixedPositions": true
         },
@@ -5173,8 +5173,8 @@
                     "Y": -2.0
                 }
             ],
-            "Name": "10.2 Paso Doble Ende",
             "Text": "auf \"4\" Herr li Fu\u00df Punkt erreicht Bild\r\nauf \"5\" Herr re Fu\u00df Punkt; links getapt",
+            "Name": "Paso 2. Drittel Ende",
             "FixedPositions": true
         },
         {
@@ -5292,7 +5292,7 @@
                     "Y": 0.0
                 }
             ],
-            "Name": "11.1 CCC",
+            "Name": "CCC 2. Drittel Check",
             "Text": "auf \"2\" Check\r\nHerr li Fu\u00df Punkt",
             "FixedPositions": true
         },
@@ -5411,7 +5411,7 @@
                     "Y": 0.0
                 }
             ],
-            "Name": "11.2 CCC",
+            "Name": "CCC 2. Drittel Ende",
             "Text": "\r\n\r\n",
             "FixedPositions": true
         },
@@ -5530,7 +5530,7 @@
                     "Y": 0.0
                 }
             ],
-            "Name": "12.1 Jive",
+            "Name": "Jive 2. Drittel auf \"1\" vor 3-Schritt-Drehung",
             "Text": "auf \"1\" vor 3-Schritt-Drehung",
             "FixedPositions": true
         },
@@ -5649,7 +5649,7 @@
                     "Y": 6.0
                 }
             ],
-            "Name": "12.2 Jive",
+            "Name": "Jive 2. Drittel auf \"8\" Ende Kicks",
             "Text": "auf \"8\" Ende Kicks",
             "FixedPositions": true
         },
@@ -5768,7 +5768,7 @@
                     "Y": 5.25
                 }
             ],
-            "Name": "12.3 Jive",
+            "Name": "Jive 2. Drittel Ende Platzwechsel",
             "Text": "auf \"8\" Ende Kicks",
             "FixedPositions": true
         },
@@ -5887,7 +5887,7 @@
                     "Y": 5.0
                 }
             ],
-            "Name": "12.4 Jive Ende - Drahdiwaberl",
+            "Name": "Jive 2. Drittel Ende - Drahdiwaberl",
             "Text": "Beginn Achse",
             "FixedPositions": true
         },
@@ -6006,7 +6006,7 @@
                     "Y": 7.0
                 }
             ],
-            "Name": "13.1 CCC",
+            "Name": "CCC 3. Drittel Beginn",
             "Text": "auf \"1\" Lunge nach Drahdiwaberl\r\nHerr re Fu\u00df Punkt\r\n",
             "FixedPositions": true
         },
@@ -6125,8 +6125,8 @@
                     "Y": 6.0
                 }
             ],
-            "Name": "13.2 CCC",
             "Text": "auf \"2\"\r\nHerr re Fu\u00df Punkt\r\nauf \"3\" Lunge mit Gewicht \u00fcber Punkt\r\n\r\n\r\n",
+            "Name": "CCC 3. Drittel Lunge",
             "FixedPositions": true
         },
         {
@@ -6244,7 +6244,7 @@
                     "Y": 6.0
                 }
             ],
-            "Name": "13.3 CCC",
+            "Name": "CCC 3. Drittel Anfang Kette",
             "Text": "auf \"3\"\r\n\r\n\r\n",
             "FixedPositions": true
         },
@@ -6363,7 +6363,7 @@
                     "Y": 7.0
                 }
             ],
-            "Name": "13.4 CCC",
+            "Name": "CCC 3. Drittel Ende Kette",
             "Text": "auf \"3\"\r\nDamen: Tiefe = hinterer Fu\u00df Herr\r\n\r\n",
             "FixedPositions": true
         },
@@ -6482,7 +6482,7 @@
                     "Y": 5.0
                 }
             ],
-            "Name": "13.5 CCC",
+            "Name": "CCC 3. Drittel 1. Box",
             "Text": "auf \"1\" zwei Reihen auf Seiten 2 und 0\r\n\r\n\r\n",
             "FixedPositions": true
         },
@@ -6601,7 +6601,7 @@
                     "Y": 1.0
                 }
             ],
-            "Name": "13.6 CCC",
+            "Name": "Podenpiru",
             "Text": "Vor Bodenpiru\r\nHerr Schnippi Punkt\r\n\r\n",
             "FixedPositions": true
         },
@@ -6720,7 +6720,7 @@
                     "Y": 1.5
                 }
             ],
-            "Name": "14.1 Samba Endbild",
+            "Name": "Samba 3. Drittel Ende",
             "Text": "auf \"5\"\r\n",
             "FixedPositions": true
         },
@@ -6839,7 +6839,7 @@
                     "Y": 2.5
                 }
             ],
-            "Name": "15.1 Rumba",
+            "Name": "Rumba 3. Drittel Ende Outside Spin",
             "Text": "auf \"4\" Ende Outside Spin\r\nHerr li Fu\u00df Punkt",
             "FixedPositions": true
         },
@@ -6958,7 +6958,7 @@
                     "Y": 3.0
                 }
             ],
-            "Name": "15.2 Rumba",
+            "Name": "Rumba 3. Drittel Hangman",
             "Text": "Hangman Pose\r\nHerr re Fu\u00df Punkt",
             "FixedPositions": true
         },
@@ -7077,7 +7077,7 @@
                     "Y": 3.0
                 }
             ],
-            "Name": "15.3 Rumba",
+            "Name": "Rumba 3. Drittel nach Opening Out",
             "Text": "nach Opening Out\r\nHerr li Fu\u00df Punkt",
             "FixedPositions": true
         },
@@ -7196,7 +7196,7 @@
                     "Y": 3.0
                 }
             ],
-            "Name": "15.4 Rumba",
+            "Name": "Rumba 3. Drittel Ende",
             "Text": "Herr Schnippi Punkt in Gr\u00e4tsche",
             "FixedPositions": true
         },
@@ -7315,7 +7315,7 @@
                     "Y": 1.5
                 }
             ],
-            "Name": "16.1 Paso Doble",
+            "Name": "Paso 3. Drittel Appell",
             "Text": "auf \"7\"\r\nHerr re Fu\u00df Punkt\r\n\r\n\r\n",
             "FixedPositions": true
         },
@@ -7434,7 +7434,7 @@
                     "Y": -2.0
                 }
             ],
-            "Name": "16.2 Paso Doble",
+            "Name": "Paso 3. Drittel Ende",
             "Text": "auf \"5\" vor Ende Paso\r\nHerr li Fu\u00df Punkt\r\n\r\nauf \"8\" Endbild\r\n\r\n\r\n",
             "FixedPositions": true
         },
@@ -7553,7 +7553,7 @@
                     "Y": 0.0
                 }
             ],
-            "Name": "17.1 Samba",
+            "Name": "Samba 3. Drittel Lunge",
             "Text": "auf \"4\" Lunge\r\nHerr re Fu\u00df Punkt",
             "FixedPositions": true
         },
@@ -7672,7 +7672,7 @@
                     "Y": 0.0
                 }
             ],
-            "Name": "17.2 Samba",
+            "Name": "Samba 3. Drittel aufspannen",
             "Text": "Herr li Fu\u00df Punkt\r\n",
             "FixedPositions": true
         },
@@ -7791,7 +7791,7 @@
                     "Y": 0.0
                 }
             ],
-            "Name": "17.3 Samba",
+            "Name": "Samba 3. Drittel einspringen",
             "Text": "Herr li Fu\u00df Punkt\r\n",
             "FixedPositions": true
         },
@@ -7910,7 +7910,7 @@
                     "Y": 3.0
                 }
             ],
-            "Name": "17.4 Samba - Gong",
+            "Name": "Samba 3. Drittel - Gong",
             "Text": "Herr Schniepi Punkt\r\nDame li Fu\u00df Seite Punkt\r\n\r\n\r\n",
             "FixedPositions": true
         },
@@ -8029,7 +8029,7 @@
                     "Y": 6.0
                 }
             ],
-            "Name": "18.1 Ausmarsch",
+            "Name": "Ausmarsch 1",
             "Text": "auf \"3\"\r\nHerr re Fu\u00df Punkt\r\n\r\n",
             "FixedPositions": true
         },
@@ -8148,7 +8148,7 @@
                     "Y": 6.0
                 }
             ],
-            "Name": "18.2 Ausmarsch",
+            "Name": "Ausmarsch 2",
             "Text": "\r\n\r\n",
             "FixedPositions": true
         },
@@ -8267,7 +8267,7 @@
                     "Y": 6.0
                 }
             ],
-            "Name": "18.3 Ausmarsch",
+            "Name": "Ausmarsch 3",
             "Text": "\r\n\r\n",
             "FixedPositions": true
         }
