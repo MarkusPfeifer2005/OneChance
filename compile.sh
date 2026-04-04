@@ -7,6 +7,10 @@ then
 fi
 
 LATEST_TAG=$(git describe --tags --abbrev=0)
-coco OneChance.choreo "${HOME}/C-Team/Bilder/OneChance/${LATEST_TAG:1}_Trainersicht_OneChance.pdf"
-coco OneChance.choreo "${HOME}/C-Team/Bilder/OneChance/${LATEST_TAG:1}_Tanzsicht_OneChance.pdf" --topUp
+TANZ="${HOME}/C-Team/Bilder/OneChance/${LATEST_TAG:1}_Trainersicht_OneChance.pdf"
+TRAIN="${HOME}/C-Team/Bilder/OneChance/${LATEST_TAG:1}_Tanzsicht_OneChance.pdf"
+coco OneChance.choreo $TANZ
+coco OneChance.choreo $TRAIN --topUp
+./bookmark.py $TANZ "OneChance.choreo"
+./bookmark.py $TRAIN "OneChance.choreo"
 
