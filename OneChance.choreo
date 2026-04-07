@@ -101,8 +101,8 @@
             "Role": {
                 "$ref": "2"
             },
-            "Name": "Sebastian Gabler / Tobias Amesbauer",
-            "Shortcut": "ST",
+            "Name": "Sebastian Gabler",
+            "Shortcut": "SG",
             "Color": "#FFEAED21"
         },
         {
@@ -8278,5 +8278,5 @@
     "Variation": "C-Team",
     "Author": "",
     "Description": "Bilderliste erstellt von Markus Pfeifer.",
-    "LastSaveDate": "2026-04-04T19:58:07.9834821+02:00"
+    "LastSaveDate": "2026-04-08T00:23:00.7441966+02:00"
 }
