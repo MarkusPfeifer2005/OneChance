@@ -6007,7 +6007,7 @@
                 }
             ],
             "Name": "CCC 3. Drittel Beginn",
-            "Text": "auf \"1\" Lunge nach Drahdiwaberl\r\nHerr re Fu\u00df Punkt\r\n",
+            "Text": "auf \"1\" Lunge nach Drahdiwaberl\r\nHerr li Fu\u00df Punkt",
             "FixedPositions": true
         },
         {
@@ -6601,7 +6601,7 @@
                     "Y": 1.0
                 }
             ],
-            "Name": "Podenpiru",
+            "Name": "Bodenpiru",
             "Text": "Vor Bodenpiru\r\nHerr Schnippi Punkt\r\n\r\n",
             "FixedPositions": true
         },
@@ -8278,5 +8278,5 @@
     "Variation": "C-Team",
     "Author": "",
     "Description": "Bilderliste erstellt von Markus Pfeifer.",
-    "LastSaveDate": "2026-04-08T00:23:00.7441966+02:00"
+    "LastSaveDate": "2026-04-08T23:30:19.9828256+02:00"
 }
