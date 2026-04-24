@@ -38,8 +38,8 @@
             "Role": {
                 "$ref": "2"
             },
-            "Name": "Sebastian Rauter",
-            "Shortcut": "SR",
+            "Name": "Todor Lehner",
+            "Shortcut": "TL",
             "Color": "#FFF21014"
         },
         {
@@ -101,8 +101,8 @@
             "Role": {
                 "$ref": "2"
             },
-            "Name": "Sebastian Gabler",
-            "Shortcut": "SG",
+            "Name": "Jovana Raki\u0107",
+            "Shortcut": "JR",
             "Color": "#FFEAED21"
         },
         {
@@ -110,8 +110,8 @@
             "Role": {
                 "$ref": "1"
             },
-            "Name": "Nicole Pfeiffer / Nina Zeitlberger",
-            "Shortcut": "NN",
+            "Name": "Iris Bartsch / Nina Zeitlberger",
+            "Shortcut": "IN",
             "Color": "#FFF21014"
         },
         {
@@ -137,8 +137,8 @@
             "Role": {
                 "$ref": "1"
             },
-            "Name": "Jovana Raki\u0107 / Hannah Macher",
-            "Shortcut": "JH",
+            "Name": "Lea Schmidl / Hannah Macher",
+            "Shortcut": "LH",
             "Color": "#FFFF9900"
         },
         {
@@ -164,8 +164,8 @@
             "Role": {
                 "$ref": "1"
             },
-            "Name": "Nadine Lang / Iris Bartsch",
-            "Shortcut": "NI",
+            "Name": "Nadine Lang",
+            "Shortcut": "NL",
             "Color": "#FF4DBF43"
         },
         {
@@ -173,8 +173,8 @@
             "Role": {
                 "$ref": "1"
             },
-            "Name": "Lea Schmidl / Greta Superstar",
-            "Shortcut": "LG",
+            "Name": "Greta Superstar",
+            "Shortcut": "GS",
             "Color": "#FFEAED21"
         }
     ],
@@ -295,7 +295,7 @@
                 }
             ],
             "Name": "Einmarsch Beginn",
-            "Text": "",
+            "Text": "Kopf richtung Boden",
             "FixedPositions": true
         },
         {
@@ -889,7 +889,7 @@
                     "Y": 1.5
                 }
             ],
-            "Name": "Pirou - WIND Anfang",
+            "Name": "Beginn Pirou",
             "Text": "auf \"8\"\r\nHerr re Fu\u00df Punkt",
             "FixedPositions": true
         },
@@ -3507,7 +3507,7 @@
                     "Y": 0.0
                 }
             ],
-            "Name": "CCC 1. Drittel 1. Box",
+            "Name": "CCC 1. Drittel 2. Box",
             "Text": "auf \"1\" Herr Punkt\r\n\r\n\r\n",
             "FixedPositions": true
         },
@@ -8278,5 +8278,5 @@
     "Variation": "C-Team",
     "Author": "",
     "Description": "Bilderliste erstellt von Markus Pfeifer.",
-    "LastSaveDate": "2026-04-12T00:54:37.9771596+02:00"
+    "LastSaveDate": "2026-04-25T00:38:24.5820319+02:00"
 }
