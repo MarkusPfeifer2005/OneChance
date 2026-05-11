@@ -295,7 +295,7 @@
                 }
             ],
             "Name": "Einmarsch Beginn",
-            "Text": "Kopf richtung Boden",
+            "Text": "",
             "FixedPositions": true
         },
         {
@@ -890,126 +890,7 @@
                 }
             ],
             "Name": "Beginn Pirou",
-            "Text": "auf \"8\"\r\nHerr re Fu\u00df Punkt",
-            "FixedPositions": true
-        },
-        {
-            "Positions": [
-                {
-                    "Dancer": {
-                        "$ref": "3"
-                    },
-                    "X": -3.0,
-                    "Y": -4.0
-                },
-                {
-                    "Dancer": {
-                        "$ref": "4"
-                    },
-                    "X": 1.5,
-                    "Y": 0.5
-                },
-                {
-                    "Dancer": {
-                        "$ref": "9"
-                    },
-                    "X": -3.0,
-                    "Y": -1.0
-                },
-                {
-                    "Dancer": {
-                        "$ref": "6"
-                    },
-                    "X": 0.0,
-                    "Y": -1.0
-                },
-                {
-                    "Dancer": {
-                        "$ref": "5"
-                    },
-                    "X": -1.5,
-                    "Y": 0.5
-                },
-                {
-                    "Dancer": {
-                        "$ref": "8"
-                    },
-                    "X": 1.5,
-                    "Y": 3.5
-                },
-                {
-                    "Dancer": {
-                        "$ref": "10"
-                    },
-                    "X": -1.5,
-                    "Y": -2.5
-                },
-                {
-                    "Dancer": {
-                        "$ref": "7"
-                    },
-                    "X": 0.0,
-                    "Y": 2.0
-                },
-                {
-                    "Dancer": {
-                        "$ref": "11"
-                    },
-                    "X": -3.0,
-                    "Y": -4.5
-                },
-                {
-                    "Dancer": {
-                        "$ref": "12"
-                    },
-                    "X": 1.5,
-                    "Y": 0.0
-                },
-                {
-                    "Dancer": {
-                        "$ref": "17"
-                    },
-                    "X": -3.0,
-                    "Y": -1.5
-                },
-                {
-                    "Dancer": {
-                        "$ref": "14"
-                    },
-                    "X": 0.0,
-                    "Y": -1.5
-                },
-                {
-                    "Dancer": {
-                        "$ref": "13"
-                    },
-                    "X": -1.5,
-                    "Y": 0.0
-                },
-                {
-                    "Dancer": {
-                        "$ref": "16"
-                    },
-                    "X": 1.5,
-                    "Y": 3.0
-                },
-                {
-                    "Dancer": {
-                        "$ref": "18"
-                    },
-                    "X": -1.5,
-                    "Y": -3.0
-                },
-                {
-                    "Dancer": {
-                        "$ref": "15"
-                    },
-                    "X": 0.0,
-                    "Y": 1.5
-                }
-            ],
-            "Name": "Wind Ende - Jive Beginn",
-            "Text": "",
+            "Text": "auf \"8\"\r\nHerr re Fu\u00df Punkt\r\n\r\nNach Pirou auf \"3\":\r\nHerr steigt mit Pressline vor,\r\ndabei Herr li Fu\u00df Punkt",
             "FixedPositions": true
         },
         {
@@ -2684,125 +2565,6 @@
                     "Dancer": {
                         "$ref": "3"
                     },
-                    "X": 4.0,
-                    "Y": -2.0
-                },
-                {
-                    "Dancer": {
-                        "$ref": "12"
-                    },
-                    "X": 5.5,
-                    "Y": -0.5
-                },
-                {
-                    "Dancer": {
-                        "$ref": "9"
-                    },
-                    "X": 2.5,
-                    "Y": -3.5
-                },
-                {
-                    "Dancer": {
-                        "$ref": "6"
-                    },
-                    "X": 5.5,
-                    "Y": -3.5
-                },
-                {
-                    "Dancer": {
-                        "$ref": "5"
-                    },
-                    "X": 1.0,
-                    "Y": -2.0
-                },
-                {
-                    "Dancer": {
-                        "$ref": "8"
-                    },
-                    "X": 4.0,
-                    "Y": 1.0
-                },
-                {
-                    "Dancer": {
-                        "$ref": "7"
-                    },
-                    "X": 1.0,
-                    "Y": 1.0
-                },
-                {
-                    "Dancer": {
-                        "$ref": "10"
-                    },
-                    "X": 2.5,
-                    "Y": -0.5
-                },
-                {
-                    "Dancer": {
-                        "$ref": "11"
-                    },
-                    "X": 4.0,
-                    "Y": -2.0
-                },
-                {
-                    "Dancer": {
-                        "$ref": "4"
-                    },
-                    "X": 5.5,
-                    "Y": -0.5
-                },
-                {
-                    "Dancer": {
-                        "$ref": "17"
-                    },
-                    "X": 2.5,
-                    "Y": -3.5
-                },
-                {
-                    "Dancer": {
-                        "$ref": "14"
-                    },
-                    "X": 5.5,
-                    "Y": -3.5
-                },
-                {
-                    "Dancer": {
-                        "$ref": "13"
-                    },
-                    "X": 1.0,
-                    "Y": -2.0
-                },
-                {
-                    "Dancer": {
-                        "$ref": "16"
-                    },
-                    "X": 4.0,
-                    "Y": 1.0
-                },
-                {
-                    "Dancer": {
-                        "$ref": "15"
-                    },
-                    "X": 1.0,
-                    "Y": 1.0
-                },
-                {
-                    "Dancer": {
-                        "$ref": "18"
-                    },
-                    "X": 2.5,
-                    "Y": -0.5
-                }
-            ],
-            "Name": "Samba 1. Drittel delayed Zig-Zag",
-            "Text": "auf \"2\"\r\nHerr re Fu\u00df Punkt\r\n\r\nHerren: Kopf vorne\r\n",
-            "FixedPositions": true
-        },
-        {
-            "Positions": [
-                {
-                    "Dancer": {
-                        "$ref": "3"
-                    },
                     "X": 5.5,
                     "Y": -0.5
                 },
@@ -2913,7 +2675,7 @@
                 }
             ],
             "Name": "Samba 1. Drittel Endbild",
-            "Text": "auf \"6\" Endbild\r\n\r\n",
+            "Text": "auf \"2\"\r\nHerr re Fu\u00df Punkt\r\n\r\nHerren: Kopf vorne\r\n",
             "FixedPositions": true
         },
         {
@@ -5547,125 +5309,6 @@
                     "Dancer": {
                         "$ref": "17"
                     },
-                    "X": 3.0,
-                    "Y": 4.5
-                },
-                {
-                    "Dancer": {
-                        "$ref": "8"
-                    },
-                    "X": -1.5,
-                    "Y": 6.0
-                },
-                {
-                    "Dancer": {
-                        "$ref": "3"
-                    },
-                    "X": 3.0,
-                    "Y": 1.5
-                },
-                {
-                    "Dancer": {
-                        "$ref": "6"
-                    },
-                    "X": -1.5,
-                    "Y": 3.0
-                },
-                {
-                    "Dancer": {
-                        "$ref": "7"
-                    },
-                    "X": 0.0,
-                    "Y": 4.5
-                },
-                {
-                    "Dancer": {
-                        "$ref": "4"
-                    },
-                    "X": 1.5,
-                    "Y": 3.0
-                },
-                {
-                    "Dancer": {
-                        "$ref": "5"
-                    },
-                    "X": 1.5,
-                    "Y": 6.0
-                },
-                {
-                    "Dancer": {
-                        "$ref": "18"
-                    },
-                    "X": -3.0,
-                    "Y": 4.5
-                },
-                {
-                    "Dancer": {
-                        "$ref": "9"
-                    },
-                    "X": 3.0,
-                    "Y": 4.5
-                },
-                {
-                    "Dancer": {
-                        "$ref": "16"
-                    },
-                    "X": -1.5,
-                    "Y": 6.0
-                },
-                {
-                    "Dancer": {
-                        "$ref": "11"
-                    },
-                    "X": 3.0,
-                    "Y": 1.5
-                },
-                {
-                    "Dancer": {
-                        "$ref": "14"
-                    },
-                    "X": -1.5,
-                    "Y": 3.0
-                },
-                {
-                    "Dancer": {
-                        "$ref": "15"
-                    },
-                    "X": 0.0,
-                    "Y": 4.5
-                },
-                {
-                    "Dancer": {
-                        "$ref": "12"
-                    },
-                    "X": 1.5,
-                    "Y": 3.0
-                },
-                {
-                    "Dancer": {
-                        "$ref": "13"
-                    },
-                    "X": 1.5,
-                    "Y": 6.0
-                }
-            ],
-            "Name": "Jive 2. Drittel auf \"8\" Ende Kicks",
-            "Text": "auf \"8\" Ende Kicks",
-            "FixedPositions": true
-        },
-        {
-            "Positions": [
-                {
-                    "Dancer": {
-                        "$ref": "10"
-                    },
-                    "X": -3.0,
-                    "Y": 4.5
-                },
-                {
-                    "Dancer": {
-                        "$ref": "17"
-                    },
                     "X": 3.75,
                     "Y": 3.75
                 },
@@ -5768,7 +5411,7 @@
                     "Y": 5.25
                 }
             ],
-            "Name": "Jive 2. Drittel Ende Platzwechsel",
+            "Name": "Jive 2. Drittel Platzwechsel",
             "Text": "auf \"8\" Ende Kicks",
             "FixedPositions": true
         },
@@ -8278,5 +7921,5 @@
     "Variation": "C-Team",
     "Author": "",
     "Description": "Bilderliste erstellt von Markus Pfeifer.",
-    "LastSaveDate": "2026-04-25T00:38:24.5820319+02:00"
+    "LastSaveDate": "2026-05-11T09:55:47.4848452+02:00"
 }
