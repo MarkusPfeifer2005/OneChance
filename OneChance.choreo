@@ -295,7 +295,7 @@
                 }
             ],
             "Name": "Einmarsch Beginn",
-            "Text": "",
+            "Text": "auf \"1\" Lunge nach Drahdiwaberl\r\nHerr li Fu\u00df Punkt",
             "FixedPositions": true
         },
         {
@@ -5422,112 +5422,112 @@
                         "$ref": "15"
                     },
                     "X": -3.0,
-                    "Y": 7.5
+                    "Y": 7.0
                 },
                 {
                     "Dancer": {
                         "$ref": "12"
                     },
                     "X": -1.0,
-                    "Y": 5.0
+                    "Y": 4.5
                 },
                 {
                     "Dancer": {
                         "$ref": "9"
                     },
                     "X": 1.0,
-                    "Y": 7.5
+                    "Y": 7.0
                 },
                 {
                     "Dancer": {
                         "$ref": "6"
                     },
                     "X": -3.0,
-                    "Y": 5.0
+                    "Y": 4.5
                 },
                 {
                     "Dancer": {
                         "$ref": "10"
                     },
                     "X": -5.0,
-                    "Y": 5.0
+                    "Y": 4.5
                 },
                 {
                     "Dancer": {
                         "$ref": "8"
                     },
                     "X": -5.0,
-                    "Y": 7.5
+                    "Y": 7.0
                 },
                 {
                     "Dancer": {
                         "$ref": "5"
                     },
                     "X": -1.0,
-                    "Y": 7.5
+                    "Y": 7.0
                 },
                 {
                     "Dancer": {
                         "$ref": "3"
                     },
                     "X": 1.0,
-                    "Y": 5.0
+                    "Y": 4.5
                 },
                 {
                     "Dancer": {
                         "$ref": "7"
                     },
                     "X": -3.0,
-                    "Y": 7.5
+                    "Y": 7.0
                 },
                 {
                     "Dancer": {
                         "$ref": "4"
                     },
                     "X": -1.0,
-                    "Y": 5.0
+                    "Y": 4.5
                 },
                 {
                     "Dancer": {
                         "$ref": "17"
                     },
                     "X": 1.0,
-                    "Y": 7.5
+                    "Y": 7.0
                 },
                 {
                     "Dancer": {
                         "$ref": "14"
                     },
                     "X": -3.0,
-                    "Y": 5.0
+                    "Y": 4.5
                 },
                 {
                     "Dancer": {
                         "$ref": "18"
                     },
                     "X": -5.0,
-                    "Y": 5.0
+                    "Y": 4.5
                 },
                 {
                     "Dancer": {
                         "$ref": "16"
                     },
                     "X": -5.0,
-                    "Y": 7.5
+                    "Y": 7.0
                 },
                 {
                     "Dancer": {
                         "$ref": "13"
                     },
                     "X": -1.0,
-                    "Y": 7.5
+                    "Y": 7.0
                 },
                 {
                     "Dancer": {
                         "$ref": "11"
                     },
                     "X": 1.0,
-                    "Y": 5.0
+                    "Y": 4.5
                 }
             ],
             "Name": "Jive 2. Drittel Ende - Drahdiwaberl",
@@ -7921,5 +7921,5 @@
     "Variation": "C-Team",
     "Author": "",
     "Description": "Bilderliste erstellt von Markus Pfeifer.",
-    "LastSaveDate": "2026-05-13T12:45:55.5477642+02:00"
+    "LastSaveDate": "2026-05-20T17:46:48.1288228+02:00"
 }
