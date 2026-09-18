@@ -13,11 +13,11 @@
         {
             "$id": "4",
             "Color": "#FFAF6DEF",
-            "Name": "Richard Bauer",
+            "Name": "Paul Sterk",
             "Role": {
                 "$ref": "2"
             },
-            "Shortcut": "RB"
+            "Shortcut": "PS"
         },
         {
             "$id": "5",
@@ -67,56 +67,56 @@
         {
             "$id": "10",
             "Color": "#FFEAED21",
-            "Name": "Jakob Klausen",
+            "Name": "Jakob Clausen",
             "Role": {
                 "$ref": "2"
             },
-            "Shortcut": "JK"
+            "Shortcut": "JC"
         },
         {
             "$id": "11",
             "Color": "#FFF21014",
-            "Name": "Iris Bartsch / Nina Zeitlberger",
+            "Name": "Nina Zeitlberger",
             "Role": {
                 "$ref": "1"
             },
-            "Shortcut": "IN"
+            "Shortcut": "NZ"
         },
         {
             "$id": "12",
             "Color": "#FFAF6DEF",
-            "Name": "Johanna Rabl / Daniela Promont",
+            "Name": "Leonie Holmann / Ulrike Helwich",
             "Role": {
                 "$ref": "1"
             },
-            "Shortcut": "JD"
+            "Shortcut": "LU"
         },
         {
             "$id": "13",
             "Color": "#FF257522",
-            "Name": "Ulrike Helwich",
+            "Name": "Daniela Promont",
             "Role": {
                 "$ref": "1"
             },
-            "Shortcut": "UH"
+            "Shortcut": "DP"
         },
         {
             "$id": "14",
             "Color": "#FFFF9900",
-            "Name": "Lea Schmidl / Hannah Macher",
+            "Name": "Hannah Macher",
             "Role": {
                 "$ref": "1"
             },
-            "Shortcut": "LH"
+            "Shortcut": "HM"
         },
         {
             "$id": "15",
             "Color": "#FFD61062",
-            "Name": "Leonie Holmann",
+            "Name": "Johanna Rabl / Lisa Sochr",
             "Role": {
                 "$ref": "1"
             },
-            "Shortcut": "LH"
+            "Shortcut": "JS"
         },
         {
             "$id": "16",
@@ -130,20 +130,20 @@
         {
             "$id": "17",
             "Color": "#FF4DBF43",
-            "Name": "Nadine Lang",
+            "Name": "Lea Schmidl",
             "Role": {
                 "$ref": "1"
             },
-            "Shortcut": "NL"
+            "Shortcut": "LS"
         },
         {
             "$id": "18",
             "Color": "#FFEAED21",
-            "Name": "Jovana Rakić",
+            "Name": "Lana Kluger",
             "Role": {
                 "$ref": "1"
             },
-            "Shortcut": "JR"
+            "Shortcut": "LK"
         }
     ],
     "Description": "Bilderliste erstellt von Markus Pfeifer.",
@@ -318,14 +318,14 @@
                     "Dancer": {
                         "$ref": "6"
                     },
-                    "X": 0.99,
+                    "X": 0.9900000000000002,
                     "Y": 0.0
                 },
                 {
                     "Dancer": {
                         "$ref": "5"
                     },
-                    "X": -0.51,
+                    "X": -0.5099999999999998,
                     "Y": 0.0
                 },
                 {
@@ -525,7 +525,7 @@
                     "Y": 3.0
                 }
             ],
-            "Text": "auf \"7\" Bild erreicht\r\nauf \"8\" hoch"
+            "Text": "auf \"7\" Bild erreicht\nauf \"8\" hoch"
         },
         {
             "FixedPositions": true,
@@ -763,7 +763,7 @@
                     "Y": 2.0
                 }
             ],
-            "Text": "auf \"5\"\r\nHerr re Fuß Punkt"
+            "Text": "auf \"5\"\nHerr re Fuß Punkt"
         },
         {
             "FixedPositions": true,
@@ -882,7 +882,7 @@
                     "Y": 1.5
                 }
             ],
-            "Text": "auf \"8\"\r\nHerr re Fuß Punkt\r\n\r\nNach Pirou auf \"3\":\r\nHerr steigt mit Pressline vor,\r\ndabei Herr li Fuß Punkt"
+            "Text": "auf \"8\"\nHerr re Fuß Punkt\n\nNach Pirou auf \"3\":\nHerr steigt mit Pressline vor,\ndabei Herr li Fuß Punkt"
         },
         {
             "FixedPositions": true,
@@ -1001,7 +1001,7 @@
                     "Y": 1.5
                 }
             ],
-            "Text": ""
+            "Text": "auf  \"1\""
         },
         {
             "FixedPositions": true,
@@ -1120,7 +1120,7 @@
                     "Y": 1.5
                 }
             ],
-            "Text": "auf \"3\" Herr Kick\r\nHerr re Fuß Punkt"
+            "Text": "auf \"3\" Herr Kick\nHerr re Fuß Punkt"
         },
         {
             "FixedPositions": true,
@@ -1358,7 +1358,7 @@
                     "Y": 3.5
                 }
             ],
-            "Text": "auf \"6\" nach Jump\r\nHerr re Fuß Punkt"
+            "Text": "auf \"6\" nach Jump\nHerr re Fuß Punkt"
         },
         {
             "FixedPositions": true,
@@ -1477,7 +1477,7 @@
                     "Y": 6.0
                 }
             ],
-            "Text": "auf \"6\" vor zweiter Achse\r\ndavor auf \"4\" hinter einander\r\n\r\nDefinitonen Dame in der Pose:\r\nauf \"1\" Arm hoch auf \"2\" Arm an den Hinterkopf auf \"3\" geht der Kopf am Körper mit auf \"4\" Kopf nach hinten"
+            "Text": "auf \"6\" vor zweiter Achse\ndavor auf \"4\" hinter einander\n\nDefinitonen Dame in der Pose:\nauf \"1\" Arm hoch auf \"2\" Arm an den Hinterkopf auf \"3\" geht der Kopf am Körper mit auf \"4\" Kopf nach hinten"
         },
         {
             "FixedPositions": true,
@@ -1596,7 +1596,7 @@
                     "Y": 7.0
                 }
             ],
-            "Text": "auf \"1\"\r\nHerr li Fuß Punkt\r\n\r\nDame 0,75 linker Fuß Seite von Herr entfernt - rechter Fuß Herrentiefe\r\n\r\n"
+            "Text": "auf \"1\"\nHerr li Fuß Punkt\n\nDame 0,75 linker Fuß Seite von Herr entfernt - rechter Fuß Herrentiefe\n\n"
         },
         {
             "FixedPositions": true,
@@ -1715,7 +1715,7 @@
                     "Y": 6.0
                 }
             ],
-            "Text": "auf \"4\" Herr li Fuß Punkt\r\nDame li Fuß Seite\r\n\r\n"
+            "Text": "auf \"4\" Herr li Fuß Punkt\nDame li Fuß Seite\n\n"
         },
         {
             "FixedPositions": true,
@@ -1834,7 +1834,7 @@
                     "Y": 5.0
                 }
             ],
-            "Text": "auf \"2\" vor Telespin\r\nHerr re Fuß\r\n\r\n"
+            "Text": "auf \"2\" vor Telespin\nHerr re Fuß\n\n"
         },
         {
             "FixedPositions": true,
@@ -1953,7 +1953,7 @@
                     "Y": 5.0
                 }
             ],
-            "Text": "auf \"2\" Ende Telespin\r\nHerren li Fuß Punkt"
+            "Text": "auf \"2\" Ende Telespin\nHerren li Fuß Punkt"
         },
         {
             "FixedPositions": true,
@@ -2072,7 +2072,7 @@
                     "Y": 4.5
                 }
             ],
-            "Text": "auf \"4\" Endbild\r\nHerr re Fuß Punkt"
+            "Text": "auf \"4\" Endbild\nHerr re Fuß Punkt"
         },
         {
             "FixedPositions": true,
@@ -2548,7 +2548,7 @@
                     "Y": -1.5
                 }
             ],
-            "Text": "auf \"6\"\r\nHerr re Fuß Punkt\r\n\r\nKopf erst auf \"4\" vorne\r\n\r\n"
+            "Text": "auf \"6\"\nHerr re Fuß Punkt\n\nKopf erst auf \"3&\" vorne\n\n"
         },
         {
             "FixedPositions": true,
@@ -2667,7 +2667,7 @@
                     "Y": -2.0
                 }
             ],
-            "Text": "auf \"2\"\r\nHerr re Fuß Punkt\r\n\r\nHerren: Kopf vorne\r\n"
+            "Text": "auf \"2\"\nHerr re Fuß Punkt\n\nHerren: Kopf vorne\n"
         },
         {
             "FixedPositions": true,
@@ -2786,7 +2786,7 @@
                     "Y": -1.0
                 }
             ],
-            "Text": "auf \"3\"   \r\n\r\n\r\n"
+            "Text": "auf \"3\"   \n\n\n"
         },
         {
             "FixedPositions": true,
@@ -3024,7 +3024,7 @@
                     "Y": -0.5
                 }
             ],
-            "Text": "auf \"3\" Twist\r\n\r\n"
+            "Text": "auf \"3\" Twist\n\n"
         },
         {
             "FixedPositions": true,
@@ -3619,7 +3619,7 @@
                     "Y": 3.0
                 }
             ],
-            "Text": "auf \"6\" vor Doppeldrehung\nHerr re Fuß Punkt\n\n\n"
+            "Text": "auf \"6\" vor Doppeldrehung\nHerr re Fuß Punkt\n\ndanache auf \"4\" 1 m dahinter"
         },
         {
             "FixedPositions": true,
@@ -3738,245 +3738,126 @@
                     "Y": 3.0
                 }
             ],
-            "Text": "auf \"6\" vor Doppeldrehung\nHerr re Fuß Punkt\n\n\n"
+            "Text": "auf \"8\" Tiefe erreicht\nHerr re Fuß Punkt\n\n\n"
         },
         {
             "FixedPositions": true,
-            "Name": "Samba 2. Drittel auf \"2\" Ende Batucadas (alternate Version)",
+            "Name": "Roundabout Beginn",
             "Positions": [
                 {
                     "Dancer": {
                         "$ref": "4"
                     },
-                    "X": -1.0,
-                    "Y": 3.0
+                    "X": 0.0,
+                    "Y": 2.0
                 },
                 {
                     "Dancer": {
                         "$ref": "11"
                     },
                     "X": 3.0,
-                    "Y": 3.0
+                    "Y": -2.0
                 },
                 {
                     "Dancer": {
                         "$ref": "5"
                     },
                     "X": 3.0,
-                    "Y": 5.0
+                    "Y": 2.0
                 },
                 {
                     "Dancer": {
                         "$ref": "6"
                     },
-                    "X": 1.0,
-                    "Y": 1.0
+                    "X": 0.0,
+                    "Y": -2.0
                 },
                 {
                     "Dancer": {
                         "$ref": "7"
                     },
-                    "X": 1.0,
-                    "Y": 5.0
+                    "X": -3.0,
+                    "Y": 2.0
                 },
                 {
                     "Dancer": {
                         "$ref": "8"
                     },
-                    "X": -1.0,
-                    "Y": 5.0
+                    "X": -3.0,
+                    "Y": 0.0
                 },
                 {
                     "Dancer": {
                         "$ref": "10"
                     },
-                    "X": -1.0,
-                    "Y": 1.0
+                    "X": -3.0,
+                    "Y": -2.0
                 },
                 {
                     "Dancer": {
                         "$ref": "9"
                     },
                     "X": 3.0,
-                    "Y": 1.0
+                    "Y": 0.0
                 },
                 {
                     "Dancer": {
                         "$ref": "12"
                     },
-                    "X": -1.0,
-                    "Y": 3.0
+                    "X": 0.0,
+                    "Y": 2.0
                 },
                 {
                     "Dancer": {
                         "$ref": "3"
                     },
                     "X": 3.0,
-                    "Y": 3.0
+                    "Y": -2.0
                 },
                 {
                     "Dancer": {
                         "$ref": "13"
                     },
                     "X": 3.0,
-                    "Y": 5.0
+                    "Y": 2.0
                 },
                 {
                     "Dancer": {
                         "$ref": "14"
                     },
-                    "X": 1.0,
-                    "Y": 1.0
+                    "X": 0.0,
+                    "Y": -2.0
                 },
                 {
                     "Dancer": {
                         "$ref": "15"
                     },
-                    "X": 1.0,
-                    "Y": 5.0
+                    "X": -3.0,
+                    "Y": 2.0
                 },
                 {
                     "Dancer": {
                         "$ref": "16"
                     },
-                    "X": -1.0,
-                    "Y": 5.0
+                    "X": -3.0,
+                    "Y": 0.0
                 },
                 {
                     "Dancer": {
                         "$ref": "18"
                     },
-                    "X": -1.0,
-                    "Y": 1.0
+                    "X": -3.0,
+                    "Y": -2.0
                 },
                 {
                     "Dancer": {
                         "$ref": "17"
                     },
                     "X": 3.0,
-                    "Y": 1.0
+                    "Y": 0.0
                 }
             ],
             "Text": "auf \"5\" Lunge Herr li Fuß Punkt"
-        },
-        {
-            "FixedPositions": true,
-            "Name": "Samba 2. Drittel auf \"2\" Ende Run",
-            "Positions": [
-                {
-                    "Dancer": {
-                        "$ref": "4"
-                    },
-                    "X": -2.0,
-                    "Y": 0.0
-                },
-                {
-                    "Dancer": {
-                        "$ref": "11"
-                    },
-                    "X": 2.0,
-                    "Y": 0.0
-                },
-                {
-                    "Dancer": {
-                        "$ref": "5"
-                    },
-                    "X": 2.0,
-                    "Y": 2.0
-                },
-                {
-                    "Dancer": {
-                        "$ref": "6"
-                    },
-                    "X": 0.0,
-                    "Y": -2.0
-                },
-                {
-                    "Dancer": {
-                        "$ref": "7"
-                    },
-                    "X": 0.0,
-                    "Y": 2.0
-                },
-                {
-                    "Dancer": {
-                        "$ref": "8"
-                    },
-                    "X": -2.0,
-                    "Y": 2.0
-                },
-                {
-                    "Dancer": {
-                        "$ref": "10"
-                    },
-                    "X": -2.0,
-                    "Y": -2.0
-                },
-                {
-                    "Dancer": {
-                        "$ref": "9"
-                    },
-                    "X": 2.0,
-                    "Y": -2.0
-                },
-                {
-                    "Dancer": {
-                        "$ref": "12"
-                    },
-                    "X": -2.0,
-                    "Y": 0.0
-                },
-                {
-                    "Dancer": {
-                        "$ref": "3"
-                    },
-                    "X": 2.0,
-                    "Y": 0.0
-                },
-                {
-                    "Dancer": {
-                        "$ref": "13"
-                    },
-                    "X": 2.0,
-                    "Y": 2.0
-                },
-                {
-                    "Dancer": {
-                        "$ref": "14"
-                    },
-                    "X": 0.0,
-                    "Y": -2.0
-                },
-                {
-                    "Dancer": {
-                        "$ref": "15"
-                    },
-                    "X": 0.0,
-                    "Y": 2.0
-                },
-                {
-                    "Dancer": {
-                        "$ref": "16"
-                    },
-                    "X": -2.0,
-                    "Y": 2.0
-                },
-                {
-                    "Dancer": {
-                        "$ref": "18"
-                    },
-                    "X": -2.0,
-                    "Y": -2.0
-                },
-                {
-                    "Dancer": {
-                        "$ref": "17"
-                    },
-                    "X": 2.0,
-                    "Y": -2.0
-                }
-            ],
-            "Text": "auf \"2\" Herr li Fuß Punkt\nauf \"4\" Herr re Fuß selber Punkt\nauf \"7\" Aufspannen Herr li Fuß selber Punkt\n"
         },
         {
             "FixedPositions": true,
@@ -3986,22 +3867,22 @@
                     "Dancer": {
                         "$ref": "4"
                     },
-                    "X": -1.5,
-                    "Y": -1.5
+                    "X": 0.0,
+                    "Y": 4.0
                 },
                 {
                     "Dancer": {
                         "$ref": "11"
                     },
                     "X": 1.5,
-                    "Y": -1.5
+                    "Y": -2.0
                 },
                 {
                     "Dancer": {
-                        "$ref": "7"
+                        "$ref": "5"
                     },
-                    "X": 0.0,
-                    "Y": 3.0
+                    "X": 1.5,
+                    "Y": 2.0
                 },
                 {
                     "Dancer": {
@@ -4012,24 +3893,24 @@
                 },
                 {
                     "Dancer": {
-                        "$ref": "8"
+                        "$ref": "7"
                     },
                     "X": -1.5,
-                    "Y": 1.5
+                    "Y": 2.0
                 },
                 {
                     "Dancer": {
-                        "$ref": "5"
+                        "$ref": "8"
                     },
-                    "X": 1.5,
-                    "Y": 1.5
+                    "X": -3.0,
+                    "Y": 0.0
                 },
                 {
                     "Dancer": {
                         "$ref": "10"
                     },
-                    "X": -3.0,
-                    "Y": 0.0
+                    "X": -1.5,
+                    "Y": -2.0
                 },
                 {
                     "Dancer": {
@@ -4042,22 +3923,22 @@
                     "Dancer": {
                         "$ref": "12"
                     },
-                    "X": -1.5,
-                    "Y": -1.5
+                    "X": 0.0,
+                    "Y": 4.0
                 },
                 {
                     "Dancer": {
                         "$ref": "3"
                     },
                     "X": 1.5,
-                    "Y": -1.5
+                    "Y": -2.0
                 },
                 {
                     "Dancer": {
-                        "$ref": "15"
+                        "$ref": "13"
                     },
-                    "X": 0.0,
-                    "Y": 3.0
+                    "X": 1.5,
+                    "Y": 2.0
                 },
                 {
                     "Dancer": {
@@ -4068,24 +3949,24 @@
                 },
                 {
                     "Dancer": {
-                        "$ref": "16"
+                        "$ref": "15"
                     },
                     "X": -1.5,
-                    "Y": 1.5
+                    "Y": 2.0
                 },
                 {
                     "Dancer": {
-                        "$ref": "13"
+                        "$ref": "16"
                     },
-                    "X": 1.5,
-                    "Y": 1.5
+                    "X": -3.0,
+                    "Y": 0.0
                 },
                 {
                     "Dancer": {
                         "$ref": "18"
                     },
-                    "X": -3.0,
-                    "Y": 0.0
+                    "X": -1.5,
+                    "Y": -2.0
                 },
                 {
                     "Dancer": {
@@ -4095,7 +3976,7 @@
                     "Y": 0.0
                 }
             ],
-            "Text": "auf \"6\" Ende Roundabout"
+            "Text": "auf \"5\" Lunge Herr li Fuß Punkt"
         },
         {
             "FixedPositions": true,
@@ -4105,8 +3986,8 @@
                     "Dancer": {
                         "$ref": "4"
                     },
-                    "X": -3.0,
-                    "Y": -3.0
+                    "X": 0.0,
+                    "Y": 0.0
                 },
                 {
                     "Dancer": {
@@ -4119,8 +4000,8 @@
                     "Dancer": {
                         "$ref": "7"
                     },
-                    "X": 0.0,
-                    "Y": 0.0
+                    "X": -1.5,
+                    "Y": -1.5
                 },
                 {
                     "Dancer": {
@@ -4133,8 +4014,8 @@
                     "Dancer": {
                         "$ref": "8"
                     },
-                    "X": -1.5,
-                    "Y": -1.5
+                    "X": -3.0,
+                    "Y": -3.0
                 },
                 {
                     "Dancer": {
@@ -4161,8 +4042,8 @@
                     "Dancer": {
                         "$ref": "12"
                     },
-                    "X": -3.0,
-                    "Y": -3.0
+                    "X": 0.0,
+                    "Y": 0.0
                 },
                 {
                     "Dancer": {
@@ -4175,8 +4056,8 @@
                     "Dancer": {
                         "$ref": "15"
                     },
-                    "X": 0.0,
-                    "Y": 0.0
+                    "X": -1.5,
+                    "Y": -1.5
                 },
                 {
                     "Dancer": {
@@ -4189,8 +4070,8 @@
                     "Dancer": {
                         "$ref": "16"
                     },
-                    "X": -1.5,
-                    "Y": -1.5
+                    "X": -3.0,
+                    "Y": -3.0
                 },
                 {
                     "Dancer": {
@@ -4225,112 +4106,112 @@
                         "$ref": "4"
                     },
                     "X": 0.0,
-                    "Y": -1.5
+                    "Y": 2.0
                 },
                 {
                     "Dancer": {
                         "$ref": "11"
                     },
                     "X": 1.5,
-                    "Y": -3.0
+                    "Y": -2.5
                 },
                 {
                     "Dancer": {
                         "$ref": "7"
                     },
-                    "X": 0.0,
-                    "Y": 1.5
+                    "X": -1.5,
+                    "Y": 0.5
                 },
                 {
                     "Dancer": {
                         "$ref": "6"
                     },
-                    "X": -1.5,
-                    "Y": -3.0
+                    "X": 0.0,
+                    "Y": -1.0
                 },
                 {
                     "Dancer": {
                         "$ref": "8"
                     },
-                    "X": -1.5,
-                    "Y": 0.0
+                    "X": -3.0,
+                    "Y": -1.0
                 },
                 {
                     "Dancer": {
                         "$ref": "5"
                     },
                     "X": 1.5,
-                    "Y": 0.0
+                    "Y": 0.5
                 },
                 {
                     "Dancer": {
                         "$ref": "10"
                     },
-                    "X": -3.0,
-                    "Y": -1.5
+                    "X": -1.5,
+                    "Y": -2.5
                 },
                 {
                     "Dancer": {
                         "$ref": "9"
                     },
                     "X": 3.0,
-                    "Y": -1.5
+                    "Y": -1.0
                 },
                 {
                     "Dancer": {
                         "$ref": "12"
                     },
                     "X": 0.0,
-                    "Y": -1.5
+                    "Y": 2.0
                 },
                 {
                     "Dancer": {
                         "$ref": "3"
                     },
                     "X": 1.5,
-                    "Y": -3.0
+                    "Y": -2.5
                 },
                 {
                     "Dancer": {
                         "$ref": "15"
                     },
-                    "X": 0.0,
-                    "Y": 1.5
+                    "X": -1.5,
+                    "Y": 0.5
                 },
                 {
                     "Dancer": {
                         "$ref": "14"
                     },
-                    "X": -1.5,
-                    "Y": -3.0
+                    "X": 0.0,
+                    "Y": -1.0
                 },
                 {
                     "Dancer": {
                         "$ref": "16"
                     },
-                    "X": -1.5,
-                    "Y": 0.0
+                    "X": -3.0,
+                    "Y": -1.0
                 },
                 {
                     "Dancer": {
                         "$ref": "13"
                     },
                     "X": 1.5,
-                    "Y": 0.0
+                    "Y": 0.5
                 },
                 {
                     "Dancer": {
                         "$ref": "18"
                     },
-                    "X": -3.0,
-                    "Y": -1.5
+                    "X": -1.5,
+                    "Y": -2.5
                 },
                 {
                     "Dancer": {
                         "$ref": "17"
                     },
                     "X": 3.0,
-                    "Y": -1.5
+                    "Y": -1.0
                 }
             ],
             "Text": "auf \"2\" Check\nHerr li Fuß Punkt"
@@ -4344,34 +4225,34 @@
                         "$ref": "4"
                     },
                     "X": 3.0,
-                    "Y": -1.5
+                    "Y": 3.0
                 },
                 {
                     "Dancer": {
                         "$ref": "11"
                     },
                     "X": 4.5,
-                    "Y": -3.0
+                    "Y": -1.5
                 },
                 {
                     "Dancer": {
                         "$ref": "7"
                     },
-                    "X": 3.0,
+                    "X": 1.5,
                     "Y": 1.5
                 },
                 {
                     "Dancer": {
                         "$ref": "6"
                     },
-                    "X": 1.5,
-                    "Y": -3.0
+                    "X": 3.0,
+                    "Y": 0.0
                 },
                 {
                     "Dancer": {
                         "$ref": "8"
                     },
-                    "X": 1.5,
+                    "X": 0.0,
                     "Y": 0.0
                 },
                 {
@@ -4379,13 +4260,13 @@
                         "$ref": "5"
                     },
                     "X": 4.5,
-                    "Y": 0.0
+                    "Y": 1.5
                 },
                 {
                     "Dancer": {
                         "$ref": "10"
                     },
-                    "X": 0.0,
+                    "X": 1.5,
                     "Y": -1.5
                 },
                 {
@@ -4393,41 +4274,41 @@
                         "$ref": "9"
                     },
                     "X": 6.0,
-                    "Y": -1.5
+                    "Y": 0.0
                 },
                 {
                     "Dancer": {
                         "$ref": "12"
                     },
                     "X": 3.0,
-                    "Y": -1.5
+                    "Y": 3.0
                 },
                 {
                     "Dancer": {
                         "$ref": "3"
                     },
                     "X": 4.5,
-                    "Y": -3.0
+                    "Y": -1.5
                 },
                 {
                     "Dancer": {
                         "$ref": "15"
                     },
-                    "X": 3.0,
+                    "X": 1.5,
                     "Y": 1.5
                 },
                 {
                     "Dancer": {
                         "$ref": "14"
                     },
-                    "X": 1.5,
-                    "Y": -3.0
+                    "X": 3.0,
+                    "Y": 0.0
                 },
                 {
                     "Dancer": {
                         "$ref": "16"
                     },
-                    "X": 1.5,
+                    "X": 0.0,
                     "Y": 0.0
                 },
                 {
@@ -4435,13 +4316,13 @@
                         "$ref": "13"
                     },
                     "X": 4.5,
-                    "Y": 0.0
+                    "Y": 1.5
                 },
                 {
                     "Dancer": {
                         "$ref": "18"
                     },
-                    "X": 0.0,
+                    "X": 1.5,
                     "Y": -1.5
                 },
                 {
@@ -4449,14 +4330,14 @@
                         "$ref": "17"
                     },
                     "X": 6.0,
-                    "Y": -1.5
+                    "Y": 0.0
                 }
             ],
             "Text": "\n\n"
         },
         {
             "FixedPositions": true,
-            "Name": "Jive 2. Drittel auf \"1\" vor 3-Schritt-Drehung",
+            "Name": "Jive 2. Drittel auf \"8\" vor 3-Schritt-Drehung",
             "Positions": [
                 {
                     "Dancer": {
@@ -4571,7 +4452,7 @@
                     "Y": 0.0
                 }
             ],
-            "Text": "auf \"1\" vor 3-Schritt-Drehung"
+            "Text": "auf \"8\" vor 3-Schritt-Drehung"
         },
         {
             "FixedPositions": true,
@@ -4581,8 +4462,8 @@
                     "Dancer": {
                         "$ref": "10"
                     },
-                    "X": -3.0,
-                    "Y": 4.5
+                    "X": -1.5,
+                    "Y": 3.0
                 },
                 {
                     "Dancer": {
@@ -4595,8 +4476,8 @@
                     "Dancer": {
                         "$ref": "8"
                     },
-                    "X": -1.5,
-                    "Y": 6.0
+                    "X": -3.0,
+                    "Y": 4.5
                 },
                 {
                     "Dancer": {
@@ -4609,22 +4490,22 @@
                     "Dancer": {
                         "$ref": "6"
                     },
-                    "X": -1.5,
+                    "X": 1.5,
                     "Y": 3.0
                 },
                 {
                     "Dancer": {
                         "$ref": "7"
                     },
-                    "X": 0.0,
-                    "Y": 4.5
+                    "X": -1.5,
+                    "Y": 6.0
                 },
                 {
                     "Dancer": {
                         "$ref": "4"
                     },
-                    "X": 1.5,
-                    "Y": 3.0
+                    "X": 0.0,
+                    "Y": 4.5
                 },
                 {
                     "Dancer": {
@@ -4637,8 +4518,8 @@
                     "Dancer": {
                         "$ref": "18"
                     },
-                    "X": -2.25,
-                    "Y": 3.75
+                    "X": -0.75,
+                    "Y": 2.25
                 },
                 {
                     "Dancer": {
@@ -4651,8 +4532,8 @@
                     "Dancer": {
                         "$ref": "16"
                     },
-                    "X": -0.75,
-                    "Y": 5.25
+                    "X": -2.25,
+                    "Y": 3.75
                 },
                 {
                     "Dancer": {
@@ -4665,22 +4546,22 @@
                     "Dancer": {
                         "$ref": "14"
                     },
-                    "X": -0.75,
+                    "X": 2.25,
                     "Y": 2.25
                 },
                 {
                     "Dancer": {
                         "$ref": "15"
                     },
-                    "X": 0.75,
-                    "Y": 3.75
+                    "X": -0.75,
+                    "Y": 5.25
                 },
                 {
                     "Dancer": {
                         "$ref": "12"
                     },
-                    "X": 2.25,
-                    "Y": 2.25
+                    "X": 0.75,
+                    "Y": 3.75
                 },
                 {
                     "Dancer": {
@@ -4700,15 +4581,15 @@
                     "Dancer": {
                         "$ref": "15"
                     },
-                    "X": -3.0,
+                    "X": -5.0,
                     "Y": 7.0
                 },
                 {
                     "Dancer": {
                         "$ref": "12"
                     },
-                    "X": -1.0,
-                    "Y": 4.5
+                    "X": -3.0,
+                    "Y": 7.0
                 },
                 {
                     "Dancer": {
@@ -4721,14 +4602,14 @@
                     "Dancer": {
                         "$ref": "6"
                     },
-                    "X": -3.0,
+                    "X": -1.0,
                     "Y": 4.5
                 },
                 {
                     "Dancer": {
                         "$ref": "10"
                     },
-                    "X": -5.0,
+                    "X": -3.0,
                     "Y": 4.5
                 },
                 {
@@ -4736,7 +4617,7 @@
                         "$ref": "8"
                     },
                     "X": -5.0,
-                    "Y": 7.0
+                    "Y": 4.5
                 },
                 {
                     "Dancer": {
@@ -4756,15 +4637,15 @@
                     "Dancer": {
                         "$ref": "7"
                     },
-                    "X": -3.0,
+                    "X": -5.0,
                     "Y": 7.0
                 },
                 {
                     "Dancer": {
                         "$ref": "4"
                     },
-                    "X": -1.0,
-                    "Y": 4.5
+                    "X": -3.0,
+                    "Y": 7.0
                 },
                 {
                     "Dancer": {
@@ -4777,14 +4658,14 @@
                     "Dancer": {
                         "$ref": "14"
                     },
-                    "X": -3.0,
+                    "X": -1.0,
                     "Y": 4.5
                 },
                 {
                     "Dancer": {
                         "$ref": "18"
                     },
-                    "X": -5.0,
+                    "X": -3.0,
                     "Y": 4.5
                 },
                 {
@@ -4792,7 +4673,7 @@
                         "$ref": "16"
                     },
                     "X": -5.0,
-                    "Y": 7.0
+                    "Y": 4.5
                 },
                 {
                     "Dancer": {
@@ -4928,7 +4809,7 @@
                     "Y": 7.0
                 }
             ],
-            "Text": "auf \"1\" Lunge nach Drahdiwaberl\r\nHerr li Fuß Punkt"
+            "Text": "auf \"1\" Lunge nach Drahdiwaberl\nHerr li Fuß Punkt\n\n!!! Hier sind noch die alten Positionen\nalso die von vor dem Trainingslager !!!"
         },
         {
             "FixedPositions": true,
@@ -5047,7 +4928,7 @@
                     "Y": 6.0
                 }
             ],
-            "Text": "auf \"2\"\r\nHerr re Fuß Punkt\r\nauf \"3\" Lunge mit Gewicht über Punkt\r\n\r\n\r\n"
+            "Text": "auf \"2\"\nHerr re Fuß Punkt\nauf \"3\" Lunge mit Gewicht über Punkt\n\n\n"
         },
         {
             "FixedPositions": true,
@@ -5166,7 +5047,7 @@
                     "Y": 6.0
                 }
             ],
-            "Text": "auf \"3\"\r\n\r\n\r\n"
+            "Text": "auf \"3\"\n\n\n"
         },
         {
             "FixedPositions": true,
@@ -5285,7 +5166,7 @@
                     "Y": 7.0
                 }
             ],
-            "Text": "auf \"3\"\r\nDamen: Tiefe = hinterer Fuß Herr\r\n\r\n"
+            "Text": "auf \"3\"\nDamen: Tiefe = hinterer Fuß Herr\n\n"
         },
         {
             "FixedPositions": true,
@@ -5404,7 +5285,7 @@
                     "Y": 5.0
                 }
             ],
-            "Text": "auf \"1\" zwei Reihen auf Seiten 2 und 0\r\n\r\n\r\n"
+            "Text": "auf \"1\" zwei Reihen auf Seiten 2 und 0\n\n\n"
         },
         {
             "FixedPositions": true,
@@ -5523,7 +5404,7 @@
                     "Y": 1.0
                 }
             ],
-            "Text": "Vor Bodenpiru\r\nHerr Schnippi Punkt\r\n\r\n"
+            "Text": "Vor Bodenpiru\nHerr Schnippi Punkt\n\n"
         },
         {
             "FixedPositions": true,
@@ -5642,7 +5523,7 @@
                     "Y": 1.5
                 }
             ],
-            "Text": "auf \"5\"\r\n"
+            "Text": "auf \"5\"\nHerr re Fuß Punkt\n\nPose auf \"2\" beide re Fuß Punkt"
         },
         {
             "FixedPositions": true,
@@ -5761,7 +5642,7 @@
                     "Y": 2.5
                 }
             ],
-            "Text": "auf \"4\" Ende Outside Spin\r\nHerr li Fuß Punkt"
+            "Text": "auf \"4\" Ende Outside Spin\nHerr re Fuß Punkt"
         },
         {
             "FixedPositions": true,
@@ -5880,7 +5761,7 @@
                     "Y": 3.0
                 }
             ],
-            "Text": "Hangman Pose\r\nHerr re Fuß Punkt"
+            "Text": "Hangman Pose auf \"1\"\nHerr re Fuß Punkt"
         },
         {
             "FixedPositions": true,
@@ -6356,7 +6237,7 @@
                     "Y": -2.0
                 }
             ],
-            "Text": "auf \"5\" vor Ende Paso\r\nHerr li Fuß Punkt\r\n\r\nauf \"8\" Endbild\r\n\r\n\r\n"
+            "Text": "auf \"5\" vor Ende Paso\nHerr li Fuß Punkt\n\nauf \"8\" Endbild\n\n\n"
         },
         {
             "FixedPositions": true,
@@ -6594,7 +6475,7 @@
                     "Y": 0.0
                 }
             ],
-            "Text": "Herr li Fuß Punkt\r\n"
+            "Text": "Herr li Fuß Punkt\nauf \"4\""
         },
         {
             "FixedPositions": true,
@@ -6713,7 +6594,7 @@
                     "Y": 0.0
                 }
             ],
-            "Text": "Herr li Fuß Punkt\r\n"
+            "Text": "Herr li Fuß Punkt\nauf \"8\""
         },
         {
             "FixedPositions": true,
@@ -6832,7 +6713,7 @@
                     "Y": 3.0
                 }
             ],
-            "Text": "Herr Schniepi Punkt\r\nDame li Fuß Seite Punkt\r\n\r\n\r\n"
+            "Text": "Herr Schniepi Punkt auf \"7\"\nDame li Fuß Seite Punkt auf \"8\"\n\n\n"
         },
         {
             "FixedPositions": true,
